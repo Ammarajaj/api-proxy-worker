@@ -3,7 +3,7 @@ main = "src/index.js"
 compatibility_date = "2024-05-01"
 
 [vars]
-SECRET_KEY = "YOUR_STRONG_PASSWORD" # اختر كلمة سر قوية
+SECRET_KEY = "Ammarajajhvtas192005*" # اختر كلمة سر قوية
 
 [ai]
 binding = "AI" # <-- هذا هو الربط المباشر
